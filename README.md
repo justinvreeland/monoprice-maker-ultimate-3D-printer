@@ -67,7 +67,7 @@ The manuals are:
 
 Resist the urge to plug in your new shiny printer! Set aside 1 - 2 hours
 for a careful inspection. See [Inspection and Initial
-Setup](inspection-initial-setup.md).
+Setup](inspection-initial-setup.Rmd).
 
 Maintenance Tools
 -----------------
